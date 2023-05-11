@@ -1,2 +1,2 @@
 # devops-test
-Practice CI/CD exercises using github actions
+Practice CI/CD exercises using github actions.
